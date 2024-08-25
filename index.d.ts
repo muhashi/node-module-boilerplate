@@ -1,10 +1,10 @@
 export type Options = {
-	/**
-	Lorem ipsum.
+    /**
+    Lorem ipsum.
 
-	@default rainbows
-	*/
-	readonly postfix?: string;
+    @default rainbows
+    */
+    readonly postfix?: string;
 };
 
 /**
