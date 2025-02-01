@@ -5,7 +5,7 @@
 Use template:
 
 ```sh
-curl -fsSL https://github.com/sindresorhus/node-module-boilerplate/archive/main.tar.gz | tar -xz --strip-components=1
+curl -fsSL https://github.com/muhashi/node-module-boilerplate/archive/main.tar.gz | tar -xz --strip-components=1
 ```
 
 ## Install
